@@ -1,0 +1,45 @@
+services:
+  - type: web
+    name: fifa-rag-api
+    env: docker
+    dockerfilePath: ./Dockerfile
+    
+    # Auto-deploy on git push
+    autoDeploy: true
+    
+    # Build command
+    buildCommand: pip install -r requirements.txt
+    
+    # Start command
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    
+    # Environment variables
+    envVars:
+      - key: GROQ_API_KEY
+        scope: build,runtime
+        # Set this in Render dashboard
+      
+      - key: PORT
+        value: 8000
+      
+      - key: HOST
+        value: 0.0.0.0
+      
+      - key: EMBEDDING_MODEL
+        value: all-MiniLM-L6-v2
+      
+      - key: LLM_MODEL
+        value: mixtral-8x7b-32768
+    
+    # Disk (for caching models locally)
+    disk:
+      name: model-cache
+      mountPath: /root/.cache/huggingface
+      sizeGB: 10
+    
+    # Health check
+    healthCheckPath: /api/health
+    
+    # Limits
+    plan: free
+    # Free tier: 750 hours/month, shared CPU, 512MB RAM

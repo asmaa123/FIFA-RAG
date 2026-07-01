@@ -1,0 +1,900 @@
+{
+  "total_chunks": 127,
+  "chunks": [
+    {
+      "id": 0,
+      "type": "narrative",
+      "text": "Complete Guide & HistoryComplete Guide & History 1930 - 20221930 - 2022 A Comprehensive Resource for Researchers, Analysts, and EnthusiastsA Comprehensive Resource for Researchers, Analysts, and Enthusiasts June 2024June 2024",
+      "word_count": 30,
+      "source_section": "FIFA WORLD CUPFIFA WORLD CUP"
+    },
+    {
+      "id": 1,
+      "type": "narrative",
+      "text": "1. Introduction............................................................................................................3 2. Timeline of FIFA World Cup.................................................................................4 3. World Cup Winners...............................................................................................5 4. Host Countries & Venues.......................................................................................6 5. Top Scorers & All-Time Leaders............................................................................7 6. Most Memorable Matches.......................................................................................8 7. Greatest Players in World Cup History..................................................................9 8. Records & Statistics..............................................................................................10 9. Glossary of Terms.................................................................................................11 10. Question & Answer Section.................................................................................12",
+      "word_count": 47,
+      "source_section": "Table of Contents"
+    },
+    {
+      "id": 2,
+      "type": "narrative",
+      "text": "The FIFA World Cup is the premier international association football tournament and the most prestigious football competition in the world. Held every four years since 1930, except for 1942 and 1946 due to World War II, the tournament has grown to become a global cultural phenomenon watched by billions of people worldwide. The tournament features 32 teams (expanded to 48 teams from 2026 onwards) competing across multiple matches to determine the world champion. Each edition showcases not only the technical excellence of world-class players but also the diversity of football cultures, tactical innovations, and unforgettable moments that have shaped the sport for nearly a century. This comprehensive guide provides detailed information about World Cup history, statistics, legendary players, memorable moments, and valuable terminology used throughout the tournament. Whether you are a researcher, analyst, or passionate football enthusiast, this resource offers insights into one of humanity's greatest sporting events.",
+      "word_count": 148,
+      "source_section": "1. Introduction"
+    },
+    {
+      "id": 3,
+      "type": "narrative",
+      "text": "Below is a chronological overview of FIFA World Cup tournaments from inception to the most recent edition:",
+      "word_count": 17,
+      "source_section": "2. Timeline of FIFA World Cup"
+    },
+    {
+      "id": 4,
+      "type": "narrative",
+      "text": "The following table shows nations that have won the FIFA World Cup and their championship statistics:",
+      "word_count": 16,
+      "source_section": "Championship Records by Country"
+    },
+    {
+      "id": 5,
+      "type": "narrative",
+      "text": "Brazil holds the record for most World Cup titles with five championships, most recent in 2002. Germany, Italy, and Argentina have combined for ten titles. France won back-to-back championships in 1998 and 2018, demonstrating exceptional consistency in the modern era. Argentina's victory in 2022 marked their third title and first since 1986.",
+      "word_count": 52,
+      "source_section": "Key Insights"
+    },
+    {
+      "id": 6,
+      "type": "narrative",
+      "text": "Hosting the World Cup is a significant achievement for any nation. Below are the primary host nations and selected venue information:",
+      "word_count": 21,
+      "source_section": "4. Host Countries & Venues"
+    },
+    {
+      "id": 7,
+      "type": "narrative",
+      "text": "These players have scored the most goals throughout World Cup history:",
+      "word_count": 11,
+      "source_section": "All-Time Top Scorers Across All World Cups"
+    },
+    {
+      "id": 8,
+      "type": "narrative",
+      "text": "Miroslav Klose of Germany holds the all-time World Cup goal-scoring record with 16 goals. Just Fontaine's 13 goals in a single tournament (1958) remains the record for most goals in one World Cup. Ronaldo, also known as The Phenomenon, scored 15 goals across three tournaments. These records highlight the evolution of attacking prowess throughout World Cup history.",
+      "word_count": 57,
+      "source_section": "Notable Information"
+    },
+    {
+      "id": 9,
+      "type": "narrative",
+      "text": "An epic quarterfinal thriller between two attacking powerhouses. France's dramatic comeback from two goals down, featuring brilliant football from both sides, ended in a penalty shootout victory for France.",
+      "word_count": 29,
+      "source_section": "Brazil 3-3 France (1986)"
+    },
+    {
+      "id": 10,
+      "type": "narrative",
+      "text": "The famous 'did it cross the line?' final at Wembley. Geoff Hurst's controversial hat-trick and England's first and only World Cup victory. This match remains controversial among German supporters to this day.",
+      "word_count": 32,
+      "source_section": "England 4-2 West Germany (1966)"
+    },
+    {
+      "id": 11,
+      "type": "narrative",
+      "text": "A shocking outcome in the group stage when Italy overcame a 3-1 deficit against outsiders North Korea. Despite the loss, North Korea's performance surprised the world.",
+      "word_count": 26,
+      "source_section": "Italy 4-3 North Korea (1966)"
+    },
+    {
+      "id": 12,
+      "type": "narrative",
+      "text": "One of the most shocking semifinals in World Cup history. Germany's dominant display at the Maracanã humiliated the home nation Brazil in front of their own supporters, leaving Brazilian fans devastated.",
+      "word_count": 31,
+      "source_section": "Germany 7-1 Brazil (2014)"
+    },
+    {
+      "id": 13,
+      "type": "narrative",
+      "text": "Daniel Bertoni's goal gave Argentina their first World Cup title, decided by a single goal against the Dutch. This victory launched Argentina into football prominence and marked Diego Maradona's influence on the national team.",
+      "word_count": 34,
+      "source_section": "Argentina 1-0 Netherlands (1978)"
+    },
+    {
+      "id": 14,
+      "type": "narrative",
+      "text": "A thrilling final that saw Lionel Messi finally achieve his World Cup dream. After a dramatic comeback from 2-0 down, Argentina won on penalties against France, in one of the most emotionally charged World Cup finals ever played.",
+      "word_count": 38,
+      "source_section": "France 3-3 Argentina (2022 Final)"
+    },
+    {
+      "id": 15,
+      "type": "narrative",
+      "text": "Eight World Cup appearances. Messi's journey from early tournaments to finally winning the World Cup in 2022 represents one of football's greatest redemption stories. His playmaking, vision, and consistency across multiple tournaments define his legacy.",
+      "word_count": 35,
+      "source_section": "Lionel Messi (Argentina)"
+    },
+    {
+      "id": 16,
+      "type": "narrative",
+      "text": "Three-time World Cup winner (1958, 1962, 1970). Pelé's dominance, creativity, and goal-scoring ability established him as football's first true global superstar. He remains an icon of the beautiful game.",
+      "word_count": 29,
+      "source_section": "Pelé (Brazil)"
+    },
+    {
+      "id": 17,
+      "type": "narrative",
+      "text": "Two-time finalist and 1986 champion. Maradona's magical left foot and fighting spirit led Argentina to glory. His performance in 1986, especially against England, remains legendary among football fans worldwide.",
+      "word_count": 29,
+      "source_section": "Diego Maradona (Argentina)"
+    },
+    {
+      "id": 18,
+      "type": "narrative",
+      "text": "Five World Cup appearances representing longevity at the highest level. His athleticism, goal-scoring prowess, and competitive spirit made him one of the tournament's most feared strikers across multiple decades.",
+      "word_count": 29,
+      "source_section": "Cristiano Ronaldo (Portugal)"
+    },
+    {
+      "id": 19,
+      "type": "narrative",
+      "text": "1998 and 2006 finalist. Zidane's elegant play, technical skills, and crucial goals in tournaments defined his World Cup legacy. His two headed goals in the 1998 final became iconic moments in French sporting history.",
+      "word_count": 34,
+      "source_section": "Zinedine Zidane (France)"
+    },
+    {
+      "id": 20,
+      "type": "narrative",
+      "text": "Total World Cups: 22 (1930-2022) Total Matches Played: 900+ Total Goals Scored: 2,600+ Teams Participated: 80+ nations Average Goals Per Match: 2.8 Most Appearances by Nation: Germany (20)",
+      "word_count": 28,
+      "source_section": "Tournament Statistics Summary"
+    },
+    {
+      "id": 21,
+      "type": "narrative",
+      "text": "The combined goal total from two-legged tournament matches.",
+      "word_count": 8,
+      "source_section": "Aggregate Score"
+    },
+    {
+      "id": 22,
+      "type": "narrative",
+      "text": "A kick awarded when the defending team plays the ball out of bounds across the goal line. The attacking team takes the kick from the corner of the field.",
+      "word_count": 29,
+      "source_section": "Corner Kick"
+    },
+    {
+      "id": 23,
+      "type": "narrative",
+      "text": "The physical trophy presented to the winning team of the World Cup.",
+      "word_count": 12,
+      "source_section": "Cup"
+    },
+    {
+      "id": 24,
+      "type": "narrative",
+      "text": "A ball that is temporarily out of play, allowing specialized players to set pieces such as free kicks or corner kicks.",
+      "word_count": 21,
+      "source_section": "Dead Ball"
+    },
+    {
+      "id": 25,
+      "type": "narrative",
+      "text": "A team's removal from the tournament after losing a knockout match.",
+      "word_count": 11,
+      "source_section": "Elimination"
+    },
+    {
+      "id": 26,
+      "type": "narrative",
+      "text": "The decisive match to determine the World Cup champion, played between the two semifinal winners.",
+      "word_count": 15,
+      "source_section": "Final"
+    },
+    {
+      "id": 27,
+      "type": "narrative",
+      "text": "The opening round of the tournament where teams are divided into groups and play round-robin matches.",
+      "word_count": 16,
+      "source_section": "Group Stage"
+    },
+    {
+      "id": 28,
+      "type": "narrative",
+      "text": "Elimination matches where defeat removes a team from the tournament immediately. Includes Round of 16, Quarterfinals, Semifinals, and Final.",
+      "word_count": 19,
+      "source_section": "Knockout Round"
+    },
+    {
+      "id": 29,
+      "type": "narrative",
+      "text": "A method to determine a winner when knockout matches end in a tie, with teams alternating penalty kicks from the spot.",
+      "word_count": 21,
+      "source_section": "Penalty Shootout"
+    },
+    {
+      "id": 30,
+      "type": "narrative",
+      "text": "The playing field where the match takes place.",
+      "word_count": 8,
+      "source_section": "Pitch"
+    },
+    {
+      "id": 31,
+      "type": "narrative",
+      "text": "This section contains 45 questions covering various aspects of World Cup history, records, and facts. These questions are designed for knowledge retrieval and evaluation of RAG system comprehension.",
+      "word_count": 28,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 32,
+      "type": "narrative",
+      "text": "A: Brazil has won the most World Cups with 5 championships (1958, 1962, 1970, 1994, 2002).",
+      "word_count": 16,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 33,
+      "type": "narrative",
+      "text": "A: The first FIFA World Cup was held in 1930 in Uruguay.",
+      "word_count": 12,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 34,
+      "type": "narrative",
+      "text": "A: Miroslav Klose of Germany holds the record with 16 goals.",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 35,
+      "type": "narrative",
+      "text": "A: Germany has won 4 World Cups (1954, 1974, 1990, 2014).",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 36,
+      "type": "narrative",
+      "text": "A: Just Fontaine scored 13 goals in the 1958 World Cup, the record for a single tournament.",
+      "word_count": 17,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 37,
+      "type": "narrative",
+      "text": "A: Lionel Messi led Argentina to victory in the 2022 World Cup held in Qatar.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 38,
+      "type": "narrative",
+      "text": "A: Traditionally 32 teams, but expanding to 48 teams starting from 2026.",
+      "word_count": 12,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 39,
+      "type": "narrative",
+      "text": "A: Qatar hosted the 2022 FIFA World Cup, the first World Cup held in the Middle East.",
+      "word_count": 17,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 40,
+      "type": "narrative",
+      "text": "A: Geoff Hurst of England scored a hat-trick in the 1966 final against West Germany.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 41,
+      "type": "narrative",
+      "text": "A: Pelé won 3 World Cups with Brazil (1958, 1962, 1970).",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 42,
+      "type": "narrative",
+      "text": "A: Germany and Brazil have appeared in multiple finals, with Germany reaching 4 finals.",
+      "word_count": 14,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 43,
+      "type": "narrative",
+      "text": "A: France won their first World Cup in 1998, hosted in France itself.",
+      "word_count": 13,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 44,
+      "type": "narrative",
+      "text": "A: Argentina has won 3 World Cups (1978, 1986, 2022).",
+      "word_count": 10,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 45,
+      "type": "narrative",
+      "text": "A: Lothar Matthäus of Germany made 25 World Cup appearances across five tournaments.",
+      "word_count": 13,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 46,
+      "type": "narrative",
+      "text": "A: Hungary defeated El Salvador 10-1 in 1982.",
+      "word_count": 8,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 47,
+      "type": "narrative",
+      "text": "A: Italy has won 4 World Cups (1934, 1938, 1982, 2006).",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 48,
+      "type": "narrative",
+      "text": "A: Uruguay won the first FIFA World Cup in 1930, defeating Argentina 4-2 in the final.",
+      "word_count": 16,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 49,
+      "type": "narrative",
+      "text": "A: Brazil has hosted the World Cup twice: in 1950 and 2014.",
+      "word_count": 12,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 50,
+      "type": "narrative",
+      "text": "A: Germany won 7 consecutive matches during the 2014 World Cup.",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 51,
+      "type": "narrative",
+      "text": "A: Joachim Löw coached Germany to victory in 2014.",
+      "word_count": 9,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 52,
+      "type": "narrative",
+      "text": "A: Ronaldo scored 15 goals across 3 World Cup tournaments.",
+      "word_count": 10,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 53,
+      "type": "narrative",
+      "text": "A: The 1966 final between England and West Germany, where Geoff Hurst's goal's validity remains disputed.",
+      "word_count": 16,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 54,
+      "type": "narrative",
+      "text": "A: Diego Maradona won 1 World Cup with Argentina in 1986.",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 55,
+      "type": "narrative",
+      "text": "A: Both Uruguay and France have won 2 World Cups each.",
+      "word_count": 11,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 56,
+      "type": "narrative",
+      "text": "A: The FIFA World Cup Trophy, created in 1974.",
+      "word_count": 9,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 57,
+      "type": "narrative",
+      "text": "A: Over 18 different countries have hosted the World Cup since 1930.",
+      "word_count": 12,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 58,
+      "type": "narrative",
+      "text": "A: Brazil won their most recent World Cup in 2002, defeating Germany in the final.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 59,
+      "type": "narrative",
+      "text": "A: The 2022 final between Argentina and France ended 3-3, with Argentina winning on penalties.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 60,
+      "type": "narrative",
+      "text": "A: Two World Cups were cancelled: 1942 and 1946 due to World War II.",
+      "word_count": 14,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 61,
+      "type": "narrative",
+      "text": "A: Lionel Messi was awarded the Golden Ball as the tournament's best player in 2022.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 62,
+      "type": "narrative",
+      "text": "A: Teams play round-robin matches in groups, with points awarded for wins, draws, and losses.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 63,
+      "type": "narrative",
+      "text": "A: Argentina has played over 80 World Cup matches throughout tournament history.",
+      "word_count": 12,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 64,
+      "type": "narrative",
+      "text": "A: Germany won the 2014 World Cup, defeating Argentina 1-0 in the final.",
+      "word_count": 13,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 65,
+      "type": "narrative",
+      "text": "A: Zinedine Zidane was French and won the World Cup with France in 1998.",
+      "word_count": 14,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 66,
+      "type": "narrative",
+      "text": "A: Gerd Müller scored 14 goals in World Cup tournaments, one of the highest all-time.",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 67,
+      "type": "narrative",
+      "text": "A: Geoff Hurst scored 7 goals for England in the 1966 World Cup.",
+      "word_count": 13,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 68,
+      "type": "narrative",
+      "text": "A: England has reached one World Cup final (1966, which they won).",
+      "word_count": 12,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 69,
+      "type": "narrative",
+      "text": "A: The World Cup will expand from 32 to 48 teams starting in 2026.",
+      "word_count": 14,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 70,
+      "type": "narrative",
+      "text": "A: Brazil has won the World Cup 5 times, more than any other nation.",
+      "word_count": 14,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 71,
+      "type": "narrative",
+      "text": "A: In knockout matches, if the score is tied after regular time, extra time is played, and if still tied, a penalty shootout is used.",
+      "word_count": 25,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 72,
+      "type": "narrative",
+      "text": "A: Spain won the World Cup in 2010, defeating Netherlands in the final.",
+      "word_count": 13,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 73,
+      "type": "narrative",
+      "text": "A: 6 goals total were scored in the 1966 final (England 4, West Germany 2).",
+      "word_count": 15,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 74,
+      "type": "narrative",
+      "text": "A: Pelé is from Brazil and represented them in 3 World Cup victories.",
+      "word_count": 13,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 75,
+      "type": "narrative",
+      "text": "A: Continental qualification tournaments (such as UEFA, CONMEBOL, AFC, etc.) determine which teams qualify for the World Cup.",
+      "word_count": 18,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 76,
+      "type": "narrative",
+      "text": "A: The Netherlands has reached 3 World Cup finals (1974, 1978, 2010) without winning any. End of DocumentEnd of Document",
+      "word_count": 20,
+      "source_section": "10. Questions & Answers for Knowledge Evaluation"
+    },
+    {
+      "id": 77,
+      "type": "table",
+      "text": "Year | Host Country | Winner | Runner-up | Goals\n------------------------------------------------\n1930 | Uruguay | Uruguay | Argentina | 4-2\n1934 | Italy | Italy | Czechoslovakia | 2-1\n1938 | France | Italy | Hungary | 4-2\n1950 | Brazil | Uruguay | Brazil | 3-2\n1954 | Switzerland | West Germany | Hungary | 3-2\n1958 | Sweden | Brazil | Sweden | 5-2\n1962 | Chile | Brazil | Czechoslovakia | 3-1\n1966 | England | England | West Germany | 4-2\n1970 | Mexico | Brazil | Italy | 3-1\n1974 | West Germany | West Germany | Netherlands | 2-1\n1978 | Argentina | Argentina | Netherlands | 3-1\n1982 | Spain | Italy | West Germany | 3-1\n1986 | Mexico | Argentina | West Germany | 3-2\n1990 | Italy | West Germany | Argentina | 1-0\n1994 | USA | Brazil | Italy | 0-0\n1998 | France | France | Brazil | 3-0\n2002 | South Korea/Japan | Brazil | Germany | 2-0\n2006 | Germany | Italy | France | 1-1\n2010 | South Africa | Spain | Netherlands | 1-0\n2014 | Brazil | Germany | Argentina | 1-0\n2018 | Russia | France | Croatia | 4-2\n2022 | Qatar | Argentina | France | 3-3",
+      "word_count": 218,
+      "source_section": "Table 1"
+    },
+    {
+      "id": 78,
+      "type": "table",
+      "text": "Country | Titles | Runner-up | Appearances | Years Won\n------------------------------------------------------\nBrazil | 5 | 2 | 22 | 1958, 1962, 1970, 1994, 2002\nGermany | 4 | 4 | 20 | 1954, 1974, 1990, 2014\nItaly | 4 | 2 | 18 | 1934, 1938, 1982, 2006\nFrance | 2 | 2 | 17 | 1998, 2018\nArgentina | 3 | 2 | 18 | 1978, 1986, 2022\nEngland | 1 | 1 | 16 | 1966\nSpain | 1 | 0 | 16 | 2010\nUruguay | 2 | 0 | 15 | 1930, 1950\nCzechoslovakia | 0 | 2 | 8 | 1934, 1962\nNetherlands | 0 | 3 | 13 | 1974, 1978, 2010",
+      "word_count": 118,
+      "source_section": "Table 2"
+    },
+    {
+      "id": 79,
+      "type": "table",
+      "text": "Host Country | Years Hosted | Venues | Teams | Matches\n------------------------------------------------------\nUruguay | 1930 | 3 | 13 | 18\nItaly | 1934, 1990 | 8 | 16-32 | 17-64\nFrance | 1938, 1998 | 10 | 15-32 | 18-64\nBrazil | 1950, 2014 | 12 | 13-32 | 16-64\nSwitzerland | 1954 | 6 | 16 | 26\nSweden | 1958 | 12 | 16 | 35\nChile | 1962 | 4 | 16 | 32\nEngland | 1966 | 8 | 16 | 32\nMexico | 1970, 1986 | 5 | 16 | 32\nWest Germany | 1974 | 9 | 16 | 38\nArgentina | 1978 | 4 | 16 | 38\nSpain | 1982 | 17 | 24 | 52\nUnited States | 1994 | 9 | 24 | 52\nSouth Korea | 2002 | 20 | 32 | 64\nJapan | 2002 | 20 | 32 | 64\nGermany | 2006 | 12 | 32 | 64\nSouth Africa | 2010 | 13 | 32 | 64\nRussia | 2018 | 12 | 32 | 64\nQatar | 2022 | 8 | 32 | 64",
+      "word_count": 191,
+      "source_section": "Table 3"
+    },
+    {
+      "id": 80,
+      "type": "table",
+      "text": "Rank | Player | Country | Goals | Tournaments | Years\n-----------------------------------------------------\n1 | Pele | Brazil | 12 | 3 | 1958-1970\n2 | Gerd Müller | West Germany | 14 | 2 | 1970-1974\n3 | Pelé | Brazil | 12 | 3 | 1958-1970\n4 | Just Fontaine | France | 13 | 1 | 1958\n5 | Ronaldo | Brazil | 15 | 3 | 1998-2006\n6 | Miroslav Klose | Germany | 16 | 4 | 2002-2014\n7 | Grzegorz Lato | Poland | 10 | 3 | 1974-1982\n8 | Eusébio | Portugal | 9 | 1 | 1966\n9 | Geoff Hurst | England | 7 | 1 | 1966\n10 | Pelé (again) | Brazil | 12 | 3 | 1958-1970",
+      "word_count": 129,
+      "source_section": "Table 4"
+    },
+    {
+      "id": 81,
+      "type": "table",
+      "text": "Record | Player/Team | Number | Year\n------------------------------------\nMost Goals in Tournament | Just Fontaine | 13 | 1958\nMost Goals All-Time | Miroslav Klose | 16 | 1950-2014\nMost Assists All-Time | Diego Maradona | 8 | 1986\nMost Appearances | Lothar Matthäus | 25 | 1980-2000\nYoungest Scorer | Pelé | 17 years | 1958\nOldest Scorer | Roger Milla | 42 years | 1994\nMost Consecutive Wins | Germany | 7 matches | 2014\nLargest Victory Margin | Hungary vs El Salvador | 10-1 | 1982",
+      "word_count": 89,
+      "source_section": "Table 5"
+    },
+    {
+      "id": 82,
+      "type": "qa",
+      "text": "Q: Q1: Which country has won the most FIFA World Cups?\n\nA: A: Brazil has won the most World Cups with 5 championships (1958, 1962, 1970, 1994, 2002).",
+      "word_count": 28,
+      "source_section": "Q&A: Q1: Which country has won the most FIFA ..."
+    },
+    {
+      "id": 83,
+      "type": "qa",
+      "text": "Q: Q2: In what year was the first FIFA World Cup held?\n\nA: A: The first FIFA World Cup was held in 1930 in Uruguay.",
+      "word_count": 25,
+      "source_section": "Q&A: Q2: In what year was the first FIFA Worl..."
+    },
+    {
+      "id": 84,
+      "type": "qa",
+      "text": "Q: Q3: Who is the all-time leading goal scorer in World Cup history?\n\nA: A: Miroslav Klose of Germany holds the record with 16 goals.",
+      "word_count": 25,
+      "source_section": "Q&A: Q3: Who is the all-time leading goal sco..."
+    },
+    {
+      "id": 85,
+      "type": "qa",
+      "text": "Q: Q4: How many times has Germany won the World Cup?\n\nA: A: Germany has won 4 World Cups (1954, 1974, 1990, 2014).",
+      "word_count": 23,
+      "source_section": "Q&A: Q4: How many times has Germany won the W..."
+    },
+    {
+      "id": 86,
+      "type": "qa",
+      "text": "Q: Q5: What is the record for most goals scored in a single World Cup tournament?\n\nA: A: Just Fontaine scored 13 goals in the 1958 World Cup, the record for a single tournament.",
+      "word_count": 34,
+      "source_section": "Q&A: Q5: What is the record for most goals sc..."
+    },
+    {
+      "id": 87,
+      "type": "qa",
+      "text": "Q: Q6: Which player won the World Cup with Argentina in 2022?\n\nA: A: Lionel Messi led Argentina to victory in the 2022 World Cup held in Qatar.",
+      "word_count": 28,
+      "source_section": "Q&A: Q6: Which player won the World Cup with ..."
+    },
+    {
+      "id": 88,
+      "type": "qa",
+      "text": "Q: Q7: How many teams participate in the modern FIFA World Cup?\n\nA: A: Traditionally 32 teams, but expanding to 48 teams starting from 2026.",
+      "word_count": 25,
+      "source_section": "Q&A: Q7: How many teams participate in the mo..."
+    },
+    {
+      "id": 89,
+      "type": "qa",
+      "text": "Q: Q8: Which country hosted the 2022 FIFA World Cup?\n\nA: A: Qatar hosted the 2022 FIFA World Cup, the first World Cup held in the Middle East.",
+      "word_count": 28,
+      "source_section": "Q&A: Q8: Which country hosted the 2022 FIFA W..."
+    },
+    {
+      "id": 90,
+      "type": "qa",
+      "text": "Q: Q9: Who scored three goals in the 1966 World Cup Final?\n\nA: A: Geoff Hurst of England scored a hat-trick in the 1966 final against West Germany.",
+      "word_count": 28,
+      "source_section": "Q&A: Q9: Who scored three goals in the 1966 W..."
+    },
+    {
+      "id": 91,
+      "type": "qa",
+      "text": "Q: Q10: How many World Cups did Pelé win as a player?\n\nA: A: Pelé won 3 World Cups with Brazil (1958, 1962, 1970).",
+      "word_count": 24,
+      "source_section": "Q&A: Q10: How many World Cups did Pelé win as..."
+    },
+    {
+      "id": 92,
+      "type": "qa",
+      "text": "Q: Q11: Which nation has appeared in the most World Cup finals?\n\nA: A: Germany and Brazil have appeared in multiple finals, with Germany reaching 4 finals.",
+      "word_count": 27,
+      "source_section": "Q&A: Q11: Which nation has appeared in the mo..."
+    },
+    {
+      "id": 93,
+      "type": "qa",
+      "text": "Q: Q12: What year did France win the World Cup for the first time?\n\nA: A: France won their first World Cup in 1998, hosted in France itself.",
+      "word_count": 28,
+      "source_section": "Q&A: Q12: What year did France win the World ..."
+    },
+    {
+      "id": 94,
+      "type": "qa",
+      "text": "Q: Q13: How many World Cups has Argentina won?\n\nA: A: Argentina has won 3 World Cups (1978, 1986, 2022).",
+      "word_count": 20,
+      "source_section": "Q&A: Q13: How many World Cups has Argentina w..."
+    },
+    {
+      "id": 95,
+      "type": "qa",
+      "text": "Q: Q14: Which player has appeared in the most World Cups?\n\nA: A: Lothar Matthäus of Germany made 25 World Cup appearances across five tournaments.",
+      "word_count": 25,
+      "source_section": "Q&A: Q14: Which player has appeared in the mo..."
+    },
+    {
+      "id": 96,
+      "type": "qa",
+      "text": "Q: Q15: What was the largest victory margin in World Cup history?\n\nA: A: Hungary defeated El Salvador 10-1 in 1982.",
+      "word_count": 21,
+      "source_section": "Q&A: Q15: What was the largest victory margin..."
+    },
+    {
+      "id": 97,
+      "type": "qa",
+      "text": "Q: Q16: How many times has Italy won the World Cup?\n\nA: A: Italy has won 4 World Cups (1934, 1938, 1982, 2006).",
+      "word_count": 23,
+      "source_section": "Q&A: Q16: How many times has Italy won the Wo..."
+    },
+    {
+      "id": 98,
+      "type": "qa",
+      "text": "Q: Q17: Which country won the first-ever FIFA World Cup?\n\nA: A: Uruguay won the first FIFA World Cup in 1930, defeating Argentina 4-2 in the final.",
+      "word_count": 27,
+      "source_section": "Q&A: Q17: Which country won the first-ever FI..."
+    },
+    {
+      "id": 99,
+      "type": "qa",
+      "text": "Q: Q18: How many World Cups have been held in Brazil?\n\nA: A: Brazil has hosted the World Cup twice: in 1950 and 2014.",
+      "word_count": 24,
+      "source_section": "Q&A: Q18: How many World Cups have been held ..."
+    },
+    {
+      "id": 100,
+      "type": "qa",
+      "text": "Q: Q19: What is the record for most consecutive World Cup victories?\n\nA: A: Germany won 7 consecutive matches during the 2014 World Cup.",
+      "word_count": 24,
+      "source_section": "Q&A: Q19: What is the record for most consecu..."
+    },
+    {
+      "id": 101,
+      "type": "qa",
+      "text": "Q: Q20: Who was the coach of Germany during their 2014 World Cup victory?\n\nA: A: Joachim Löw coached Germany to victory in 2014.",
+      "word_count": 24,
+      "source_section": "Q&A: Q20: Who was the coach of Germany during..."
+    },
+    {
+      "id": 102,
+      "type": "qa",
+      "text": "Q: Q21: How many goals did Ronaldo score in World Cup tournaments?\n\nA: A: Ronaldo scored 15 goals across 3 World Cup tournaments.",
+      "word_count": 23,
+      "source_section": "Q&A: Q21: How many goals did Ronaldo score in..."
+    },
+    {
+      "id": 103,
+      "type": "qa",
+      "text": "Q: Q22: Which famous match ended with a controversial goal decision?\n\nA: A: The 1966 final between England and West Germany, where Geoff Hurst's goal's validity remains disputed.",
+      "word_count": 28,
+      "source_section": "Q&A: Q22: Which famous match ended with a con..."
+    },
+    {
+      "id": 104,
+      "type": "qa",
+      "text": "Q: Q23: How many World Cups did Diego Maradona win?\n\nA: A: Diego Maradona won 1 World Cup with Argentina in 1986.",
+      "word_count": 22,
+      "source_section": "Q&A: Q23: How many World Cups did Diego Marad..."
+    },
+    {
+      "id": 105,
+      "type": "qa",
+      "text": "Q: Q24: Which country has won 2 World Cups?\n\nA: A: Both Uruguay and France have won 2 World Cups each.",
+      "word_count": 21,
+      "source_section": "Q&A: Q24: Which country has won 2 World Cups?..."
+    },
+    {
+      "id": 106,
+      "type": "qa",
+      "text": "Q: Q25: What is the professional name for the World Cup trophy?\n\nA: A: The FIFA World Cup Trophy, created in 1974.",
+      "word_count": 22,
+      "source_section": "Q&A: Q25: What is the professional name for t..."
+    },
+    {
+      "id": 107,
+      "type": "qa",
+      "text": "Q: Q26: How many countries have hosted the FIFA World Cup?\n\nA: A: Over 18 different countries have hosted the World Cup since 1930.",
+      "word_count": 24,
+      "source_section": "Q&A: Q26: How many countries have hosted the ..."
+    },
+    {
+      "id": 108,
+      "type": "qa",
+      "text": "Q: Q27: In what year did Brazil win their most recent World Cup?\n\nA: A: Brazil won their most recent World Cup in 2002, defeating Germany in the final.",
+      "word_count": 29,
+      "source_section": "Q&A: Q27: In what year did Brazil win their m..."
+    },
+    {
+      "id": 109,
+      "type": "qa",
+      "text": "Q: Q28: What was the score of the 2022 World Cup final?\n\nA: A: The 2022 final between Argentina and France ended 3-3, with Argentina winning on penalties.",
+      "word_count": 28,
+      "source_section": "Q&A: Q28: What was the score of the 2022 Worl..."
+    },
+    {
+      "id": 110,
+      "type": "qa",
+      "text": "Q: Q29: How many World Cup tournaments were cancelled?\n\nA: A: Two World Cups were cancelled: 1942 and 1946 due to World War II.",
+      "word_count": 24,
+      "source_section": "Q&A: Q29: How many World Cup tournaments were..."
+    },
+    {
+      "id": 111,
+      "type": "qa",
+      "text": "Q: Q30: Which player was awarded the Golden Ball in 2022?\n\nA: A: Lionel Messi was awarded the Golden Ball as the tournament's best player in 2022.",
+      "word_count": 27,
+      "source_section": "Q&A: Q30: Which player was awarded the Golden..."
+    },
+    {
+      "id": 112,
+      "type": "qa",
+      "text": "Q: Q31: What is the format of the group stage?\n\nA: A: Teams play round-robin matches in groups, with points awarded for wins, draws, and losses.",
+      "word_count": 26,
+      "source_section": "Q&A: Q31: What is the format of the group sta..."
+    },
+    {
+      "id": 113,
+      "type": "qa",
+      "text": "Q: Q32: How many matches has Argentina played in World Cup tournaments?\n\nA: A: Argentina has played over 80 World Cup matches throughout tournament history.",
+      "word_count": 25,
+      "source_section": "Q&A: Q32: How many matches has Argentina play..."
+    },
+    {
+      "id": 114,
+      "type": "qa",
+      "text": "Q: Q33: Which country won the 2014 World Cup?\n\nA: A: Germany won the 2014 World Cup, defeating Argentina 1-0 in the final.",
+      "word_count": 23,
+      "source_section": "Q&A: Q33: Which country won the 2014 World Cu..."
+    },
+    {
+      "id": 115,
+      "type": "qa",
+      "text": "Q: Q34: What nationality was Zinedine Zidane?\n\nA: A: Zinedine Zidane was French and won the World Cup with France in 1998.",
+      "word_count": 22,
+      "source_section": "Q&A: Q34: What nationality was Zinedine Zidan..."
+    },
+    {
+      "id": 116,
+      "type": "qa",
+      "text": "Q: Q35: How many goals did Gerd Müller score in World Cups?\n\nA: A: Gerd Müller scored 14 goals in World Cup tournaments, one of the highest all-time.",
+      "word_count": 28,
+      "source_section": "Q&A: Q35: How many goals did Gerd Müller scor..."
+    },
+    {
+      "id": 117,
+      "type": "qa",
+      "text": "Q: Q36: Which English player scored 7 goals in the 1966 World Cup?\n\nA: A: Geoff Hurst scored 7 goals for England in the 1966 World Cup.",
+      "word_count": 27,
+      "source_section": "Q&A: Q36: Which English player scored 7 goals..."
+    },
+    {
+      "id": 118,
+      "type": "qa",
+      "text": "Q: Q37: How many times has England reached a World Cup final?\n\nA: A: England has reached one World Cup final (1966, which they won).",
+      "word_count": 25,
+      "source_section": "Q&A: Q37: How many times has England reached ..."
+    },
+    {
+      "id": 119,
+      "type": "qa",
+      "text": "Q: Q38: What is the current expansion of World Cup teams starting from 2026?\n\nA: A: The World Cup will expand from 32 to 48 teams starting in 2026.",
+      "word_count": 29,
+      "source_section": "Q&A: Q38: What is the current expansion of Wo..."
+    },
+    {
+      "id": 120,
+      "type": "qa",
+      "text": "Q: Q39: Which South American country has won the World Cup 5 times?\n\nA: A: Brazil has won the World Cup 5 times, more than any other nation.",
+      "word_count": 28,
+      "source_section": "Q&A: Q39: Which South American country has wo..."
+    },
+    {
+      "id": 121,
+      "type": "qa",
+      "text": "Q: Q40: How is a World Cup champion determined in knockout rounds?\n\nA: A: In knockout matches, if the score is tied after regular time, extra time is played, and if still tied, a penalty shootout is used.",
+      "word_count": 38,
+      "source_section": "Q&A: Q40: How is a World Cup champion determi..."
+    },
+    {
+      "id": 122,
+      "type": "qa",
+      "text": "Q: Q41: What year did Spain win their only World Cup?\n\nA: A: Spain won the World Cup in 2010, defeating Netherlands in the final.",
+      "word_count": 25,
+      "source_section": "Q&A: Q41: What year did Spain win their only ..."
+    },
+    {
+      "id": 123,
+      "type": "qa",
+      "text": "Q: Q42: How many goals were scored in the 1966 final?\n\nA: A: 6 goals total were scored in the 1966 final (England 4, West Germany 2).",
+      "word_count": 27,
+      "source_section": "Q&A: Q42: How many goals were scored in the 1..."
+    },
+    {
+      "id": 124,
+      "type": "qa",
+      "text": "Q: Q43: Who is Pelé's home country?\n\nA: A: Pelé is from Brazil and represented them in 3 World Cup victories.",
+      "word_count": 21,
+      "source_section": "Q&A: Q43: Who is Pelé's home country?..."
+    },
+    {
+      "id": 125,
+      "type": "qa",
+      "text": "Q: Q44: What is the annual tournament that determines World Cup qualification?\n\nA: A: Continental qualification tournaments (such as UEFA, CONMEBOL, AFC, etc.) determine which teams qualify for the World Cup.",
+      "word_count": 31,
+      "source_section": "Q&A: Q44: What is the annual tournament that ..."
+    },
+    {
+      "id": 126,
+      "type": "qa",
+      "text": "Q: Q45: How many times has the Netherlands reached a World Cup final without winning?\n\nA: A: The Netherlands has reached 3 World Cup finals (1974, 1978, 2010) without winning any.",
+      "word_count": 31,
+      "source_section": "Q&A: Q45: How many times has the Netherlands ..."
+    }
+  ],
+  "statistics": {
+    "narrative_chunks": 77,
+    "table_chunks": 5,
+    "qa_chunks": 45,
+    "total_words": 3479
+  }
+}
