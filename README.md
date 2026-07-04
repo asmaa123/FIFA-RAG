@@ -64,11 +64,12 @@ Server will be available at `http://localhost:8000`
 GET /api/health
 ```
 
+
 **Response:**
 ```json
 {
   "status": "ok",
-  "model": "mixtral-8x7b-32768",
+  "model": "llama-3.3-70b-versatile",
   "chunks_loaded": 8
 }
 ```
