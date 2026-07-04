@@ -296,7 +296,7 @@ curl https://your-service.onrender.com/api/health
 
 ### LLM Model
 - **Provider:** Groq
-- **Model:** mixtral-8x7b-32768
+- **Model:** llama-3.3-70b-versatile
 - **Type:** MoE (Mixture of Experts)
 - **Speed:** ⚡⚡⚡ (Super fast)
 - **Quality:** ⭐⭐⭐⭐ (Excellent)
